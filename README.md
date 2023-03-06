@@ -1,6 +1,8 @@
-# 100 Days of Web Development Coding
+# 100 Days of Web Development
 
 This is a personal challenge I am undertaking to improve my skills in web development over the course of 100 days. In this repository, I will be documenting my progress, sharing my code, and reflecting on what I have learned.
+
+## Why am I doing this?
 
 ## Why am I doing this?
 I am undertaking this challenge for several reasons: 
@@ -17,3 +19,4 @@ I will be using a variety of resources to guide my learning, including online co
 
 ## Progress
 I will be updating this repository daily with my progress. Feel free to follow along, offer feedback, or even join me on this challenge!
+- Day 1: [Card hover effect](https://100-days-of-code-card-hover-effect.vercel.app/)
