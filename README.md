@@ -20,3 +20,4 @@ I will be using a variety of resources to guide my learning, including online co
 ## Progress
 I will be updating this repository daily with my progress. Feel free to follow along, offer feedback, or even join me on this challenge!
 - Day 1: [Card hover effect](https://100-days-of-code-card-hover-effect.vercel.app/)
+- Day 2: Snap 
